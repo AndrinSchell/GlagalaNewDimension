@@ -62,5 +62,12 @@ public:
 	FORCEINLINE class UCameraComponent* GetPlayerCamera() const { return PlayerCamera; }
 
 
+	// Health
+	UPROPERTY(BlueprintReadWrite)
+	float CurrentHealth;
+	UPROPERTY(BlueprintReadWrite)
+	float MaxHealth = 100;
+	
+
 
 };

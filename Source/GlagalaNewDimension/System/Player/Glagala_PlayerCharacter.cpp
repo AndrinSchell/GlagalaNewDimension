@@ -54,6 +54,7 @@ AGlagala_PlayerCharacter::AGlagala_PlayerCharacter()
 void AGlagala_PlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	CurrentHealth = MaxHealth;
 	
 }
 
