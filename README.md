@@ -8,3 +8,8 @@ Um diese Optimal zu nutzen soll das Spiel zudem nicht mehr Zweidimensional sonde
 Ich erlaube mir dabei verschiedene kreative änderungen vorzunehmen.
 
 Für Fragen oder Anregungen könnn Sie mich gerne unter [andrin.schellenberg@hotmail.com](mailto:andrin.schellenberg@hotmail.com) Kontaktieren.
+
+## Aktueller Stand
+
+Momentan implementiere ich verschiedene grund mechanismen welche für ein Funktionierendes Spiel benötigt werden.
+Das Ziel ist es möglichst bald ein erster Build hochzuladen.
