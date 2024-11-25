@@ -1,2 +1,10 @@
 # GlagalaNewDimension
- GlagalaNewDimension has the goal to move my old project "Glagala" which was a project i created during my time in trade school to unreal engine aswell as moving it to the third dimension.
+
+## Das Projekt
+GlagalaNewDimension hat das ziel das von mir erstellte Spiel [Glagala](https://github.com/AndrinSchell/Glagala/) neu zu erstellen.
+Dabei will ich meine neu erlangten Kentnisse anwenden und das Spiel in die Unreal Engine portieren.
+Um diese Optimal zu nutzen soll das Spiel zudem nicht mehr Zweidimensional sondern Dreidimensional werden.
+
+Ich erlaube mir dabei verschiedene kreative änderungen vorzunehmen.
+
+Für Fragen oder Anregungen könnn Sie mich gerne unter [andrin.schellenberg@hotmail.com](mailto:andrin.schellenberg@hotmail.com) Kontaktieren.
